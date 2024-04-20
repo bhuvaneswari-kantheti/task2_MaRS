@@ -27,11 +27,11 @@ Arrange connections between the RF transmitter and the Arduino properly using ju
 
   Connections are given below: 
 
- 	 1.Vcc: Connect this to a regulated 5 Volt power supply. 
+ 	  Vcc: Connect this to a regulated 5 Volt power supply. 
 
-   2.Data: This is the data input pin. It receives the signal to be transmitted. It is connected to pin 12.
+    Data: This is the data input pin. It receives the signal to be transmitted. It is connected to pin 12.
 
-   3.Ground: Connect this to the ground. 
+    Ground: Connect this to the ground. 
 
 Connect the Arduino board to the laptop. 
 
